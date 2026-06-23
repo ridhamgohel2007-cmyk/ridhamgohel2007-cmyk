@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://linkedin.com/in/ridhamgohel2007-cmyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ridhamgohel2007-cmyk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ridham-gohel-3bba11319/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ridham-gohel-3bba11319/" height="30" width="40" /></a>
 <a href="https://instagram.com/ridhamgohel2007-cmyk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridhamgohel2007-cmyk" height="30" width="40" /></a>
 </p> 
 
